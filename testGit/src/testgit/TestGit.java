@@ -15,7 +15,7 @@ public class TestGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        System.out.println("hello world. this is a test to make sure NetBeans and Git are getting on");
     }
     
 }
