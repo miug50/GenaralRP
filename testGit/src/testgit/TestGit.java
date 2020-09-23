@@ -16,6 +16,10 @@ public class TestGit {
      */
     public static void main(String[] args) {
         System.out.println("hello world. this is a test to make sure NetBeans and Git are getting on");
+        
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
     
 }
